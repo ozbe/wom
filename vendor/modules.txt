@@ -1,0 +1,19 @@
+# github.com/davecgh/go-spew v1.1.1
+github.com/davecgh/go-spew/spew
+# github.com/jawher/mow.cli v1.2.0
+## explicit
+github.com/jawher/mow.cli
+github.com/jawher/mow.cli/internal/container
+github.com/jawher/mow.cli/internal/flow
+github.com/jawher/mow.cli/internal/fsm
+github.com/jawher/mow.cli/internal/lexer
+github.com/jawher/mow.cli/internal/matcher
+github.com/jawher/mow.cli/internal/parser
+github.com/jawher/mow.cli/internal/values
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/stretchr/testify v1.7.0
+## explicit
+github.com/stretchr/testify/assert
+# gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c
+gopkg.in/yaml.v3
